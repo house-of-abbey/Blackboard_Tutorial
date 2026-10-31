@@ -1,0 +1,6 @@
+[submodule "libs/VivadoIP"]
+	path = libs/VivadoIP
+	url = https://github.com/RealDigitalOrg/VivadoIP
+[submodule "libs/lvgl"]
+	path = libs/lvgl
+	url = https://github.com/lvgl/lvgl
